@@ -3,4 +3,4 @@ dumb project
 no technologies
 just an example
 
-online at:
+online at: https://timcombs.github.io/dumb_repo/
